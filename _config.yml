@@ -1,0 +1,10 @@
+title: ArtHub
+description: Profiles, Networking, and Spotlights for Art Communities
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/arthub-final-project/arthub.github.io
+gems:
+  - jekyll-mentions
