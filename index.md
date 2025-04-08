@@ -13,12 +13,12 @@ Selling art and networking as a freelance artist is difficult. Using social medi
 ## Mockup Pages
 
 ### Landing Page
-<img src="Images/landing-page-mockup.png">
+<img src="Images/landing-page-mockup.png" style="border: 2px solid black !important;">
 
 ### Sign-Up Page
   
-<img src="Images/sign-up-page-mockup.png">
+<img src="Images/sign-up-page-mockup.png" style="border: 2px solid black;">
 
 ### Friends and Followers Page
 
-<img src="Images/friends-mockup.png">
+<img src="Images/friends-mockup.png" style="border: 2px solid black;">
