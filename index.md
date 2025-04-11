@@ -3,6 +3,21 @@ layout: default
 title: ArtHub
 ---
 
+---
+### The Team
+Joshua Cooperrider: [Github](https://github.com/joshuacooperrider)
+
+Rolando Cadiz: [Github](https://github.com/rolando-cadiz)
+
+Darin Wong: [Github](https://github.com/darinw7)
+
+Keita Grant: [Github](https://github.com/KeitaGrant)
+
+Justin Barrett: [Github](https://github.com/Justinrb998)
+
+##### [View Team Contract](https://github.com/arthub-final-project/arthub.github.io/blob/main/Team%20Contract.pdf)
+---
+
 ## Our Goal
 Selling art and networking as a freelance artist is difficult. Using social media to showcase and advertise sounds like a great start, however, it is easy to get lost in the sea of profiles on social media sites. The majority of them are upstarts, people trying to become famous, or those looking to socialise. We want to create a platform that brings artists together, from amateurs to professionals, to...
 - showcase their art and talents
