@@ -64,3 +64,11 @@ The page that lists a user's friends, the users that follow them, and the users 
 The page that users use to view artworks independent of their creators, with a search function and category/tag system for finding desired artworks.
 
 <img src="Images/artworks.png" style="border: 2px solid black;">
+
+
+### Events Page 
+
+This page will show upcoming events 
+
+<img src="Images/Events-Page-Mockup.png" alt="Events Page Mockup" style="border: 2px solid black;">
+
