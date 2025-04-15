@@ -24,8 +24,6 @@ Justin Barrett: [Github](https://github.com/Justinrb998)
 
 ##### [M2](https://github.com/orgs/arthub-final-project/projects/4)
 
-##### [GitHub Organization](https://github.com/arthub-final-project)
-
 ---
 
 ## Our Goal
