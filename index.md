@@ -16,6 +16,8 @@ Keita Grant: [Github](https://github.com/KeitaGrant)
 Justin Barrett: [Github](https://github.com/Justinrb998)
 
 ##### [View Team Contract](https://github.com/arthub-final-project/arthub.github.io/blob/main/Team%20Contract.pdf)
+
+##### [Deployment on Vercel](https://arthub-314-git-main-keita-grants-projects.vercel.app)
 ---
 
 ## Our Goal
