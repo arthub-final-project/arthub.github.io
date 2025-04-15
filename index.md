@@ -20,9 +20,9 @@ Justin Barrett: [Github](https://github.com/Justinrb998)
 
 ##### [View Team Contract](https://github.com/arthub-final-project/arthub.github.io/blob/main/Team%20Contract.pdf)
 
-#### [M1](https://github.com/orgs/arthub-final-project/projects/3)
+##### [M1](https://github.com/orgs/arthub-final-project/projects/3)
 
-#### [M2](https://github.com/orgs/arthub-final-project/projects/4)
+##### [M2](https://github.com/orgs/arthub-final-project/projects/4)
 
 ---
 
