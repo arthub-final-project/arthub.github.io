@@ -31,22 +31,26 @@ Selling art and networking as a freelance artist is difficult. Using social medi
 
 The main page users will see upon entering the website
 
-<img src="Images/landing-page-mockup-updated.png" style="border: 2px solid black !important;">
+<img src="Images/deployment.png" style="border: 2px solid black !important;">
+
+There is a rotating list of featured artists and an events section to view current and upcoming art events. The Search bar takes users to the Artworks page.
 
 ### Sign-Up Page
 
 The page used for signing up for an account.
   
-<img src="Images/sign-up-page-mockup.png" style="border: 2px solid black;">
+<img src="Images/signup-2.png" style="border: 2px solid black;">
+
+Roles allow for choosing between being an artist or an art collector.
 
 ### Friends and Followers Page
 
 The page that lists a user's friends, the users that follow them, and the users they follow
 
-<img src="Images/friends-mockup-updated.png" style="border: 2px solid black;">
+<img src="Images/friends-mockup-2.png" style="border: 2px solid black;">
 
 ### Artwork Gallery
 
 The page that users use to view artworks independent of their creators, with a search function and category/tag system for finding desired artworks.
 
-<img src="Images/artworks-mockup.png" style="border: 2px solid black;">
+<img src="Images/artworks.png" style="border: 2px solid black;">
