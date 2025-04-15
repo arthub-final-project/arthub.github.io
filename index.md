@@ -31,7 +31,7 @@ Selling art and networking as a freelance artist is difficult. Using social medi
 
 The main page users will see upon entering the website
 
-<img src="Images/Deployment.png" style="border: 2px solid black !important;">
+<img src="Images/DeploymentPic.png" style="border: 2px solid black !important;">
 
 There is a rotating list of featured artists and an events section to view current and upcoming art events. The Search bar takes users to the Artworks page.
 
