@@ -2,6 +2,8 @@
 layout: default
 title: ArtHub
 ---
+![CI](https://github.com/arthub-final-project/arthub-314/actions/workflows/main.yml/badge.svg)
+
 ### Deployment
 
 [ArtHub Application](https://arthub-314-git-main-keita-grants-projects.vercel.app/)
