@@ -169,7 +169,7 @@ The page that users use to view artworks independent of their creators, with a s
 
 ### Events Page 
 
-This page will show upcoming events 
+This page shows upcoming events 
 
 <img src="Images/Events-Page-Mockup.png" alt="Events Page Mockup" style="border: 2px solid black;">
 
