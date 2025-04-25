@@ -150,7 +150,7 @@ There is a rotating list of featured artists and an events section to view curre
 
 The page used for signing up for an account.
   
-<img src="Images/314_M2_Screenshot_SignUp.png" style="border: 2px solid black;">
+<img src="Images/314_M2_Screenshot_SignUP.png" style="border: 2px solid black;">
 
 Roles allow for choosing between being an artist or an art collector.
 
