@@ -6,7 +6,7 @@ title: ArtHub
 
 ### Deployment
 
-[ArtHub Application](https://arthub-314-git-main-keita-grants-projects.vercel.app/)
+[ArtHub Application](https://arthub-314-cyan.vercel.app/)
 
 ---
 ### The Team
