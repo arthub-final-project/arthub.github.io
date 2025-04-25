@@ -135,10 +135,13 @@ $ npm run lint
 ✔ No ESLint warnings or errors
 $
 ```
+## Milestone 1 Project Board
+https://github.com/orgs/arthub-final-project/projects/3
+## Milestone 2 Project Board
+https://github.com/orgs/arthub-final-project/projects/4
 
-
-
-## Mockup Pages
+## Milestone 3 Project Board
+https://github.com/orgs/arthub-final-project/projects/6/views/1
 
 ### Landing Page
 
