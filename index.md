@@ -37,6 +37,9 @@ Selling art and networking as a freelance artist is difficult. Using social medi
 - advertise current projects to the wider art community
 - sell their products in an easy-to-use and secure marketplace
 
+## Community Feedback
+
+
 ## Developer Guide
 First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for your application.
 
