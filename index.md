@@ -145,27 +145,40 @@ $ npm run lint
 $
 ```
 
-### Landing Page
+
+### User Guide For ArtHub Website:
+
+### 1. Landing Page
 
 The main page users will see upon entering the website
 
-<img src="Images/314_M2_Screenshot_landingpage.png" style="border: 2px solid black !important;">
+<img src="Images/vercel(1).png" style="border: 2px solid black !important;">
 
 There is a rotating list of featured artists and an events section to view current and upcoming art events. The Search bar takes users to the Artworks page.
 
-### Sign-Up Page
+### 2. Events Page 
 
-The page used for signing up for an account.
+This page shows upcoming art events.
+
+<img src="Images/Events-Page-Mockup.png" alt="Events Page Mockup" style="border: 2px solid black;">
+
+### 3. Sign-Up Page
+
+This page used for signing up for an account.
   
 <img src="Images/314_M2_Screenshot_SignUP.png" style="border: 2px solid black;">
 
-Roles allow for choosing between being an artist or an art collector.
+### 4. Friends and Followers Page
 
-### Friends and Followers Page
-
-The page that lists a user's friends, the users that follow them, and the users they follow
+Once signed in, users will be able to view the rest of the pages. Such as this this page that lists a user's friends, the users that follow them, and the users they follow.
 
 <img src="Images/314_M2_Screenshot_FriendsPage.png" style="border: 2px solid black;">
+
+### 5. Explore Artist Profiles Page
+
+<img src="Images/vercel(2).png" style="border: 2px solid black;">
+
+This page will show various artist profiles as well as their uploaded artwork
 
 ### Artwork Gallery
 
@@ -173,10 +186,13 @@ The page that users use to view artworks independent of their creators, with a s
 
 <img src="Images/314_M2_Screenshot_GenericArtworksInventory.png" style="border: 2px solid black;">
 
+### Upload ArtWork
 
-### Events Page 
+This page will allow users to upload their artwork 
 
-This page shows upcoming events 
+<img src="Images/vercel(3).png" style="border: 2px solid black;">
 
-<img src="Images/Events-Page-Mockup.png" alt="Events Page Mockup" style="border: 2px solid black;">
+
+
+
 
