@@ -180,13 +180,13 @@ Once signed in, users will be able to view the rest of the pages. Such as this t
 
 This page will show various artist profiles as well as their uploaded artwork
 
-### Artwork Gallery
+### 6. Artwork Gallery
 
 The page that users use to view artworks independent of their creators, with a search function and category/tag system for finding desired artworks.
 
 <img src="Images/314_M2_Screenshot_GenericArtworksInventory.png" style="border: 2px solid black;">
 
-### Upload ArtWork
+### 7. Upload ArtWork
 
 This page will allow users to upload their artwork 
 
