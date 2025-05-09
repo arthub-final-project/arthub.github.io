@@ -178,17 +178,29 @@ Once signed in, users will be able to view the rest of the pages. Such as this t
 
 <img src="Images/vercel(2).png" style="border: 2px solid black;">
 
-This page will show various artist profiles as well as their uploaded artwork
+This page will show various artist profiles as well as their uploaded artwork. Clicking view will allow you to see their gallery.
 
 ### 6. Artwork Gallery
 
-The page that users use to view artworks independent of their creators, with a search function and category/tag system for finding desired artworks.
+The page that users use to view artworks independent of their creators, with a search function and category/tag system for finding desired artworks planned. Currently can be viewed via clicking the search bar in the top left.
 
-<img src="Images/314_M2_Screenshot_GenericArtworksInventory.png" style="border: 2px solid black;">
+<img src="Images/Gallery.png" style="border: 2px solid black;">
+
+### User Gallery
+
+This page shows only the associated user's artworks.
+
+<img src="Images/UserGallery.png" style="border: 2px solid black;">
+
+### Image Viewer
+
+Clicking on an artwork will bring up a modal of that artwork, showing it in greater detail as well as the title and artist's name.
+
+<img src="Images/ImageViewer.png" style="border: 2px solid black;">
 
 ### 7. Upload ArtWork
 
-This page will allow users to upload their artwork 
+This page will allow users to upload their artwork to the website. Uploaded artworks will be found in both the gallery and the user's gallery
 
 <img src="Images/vercel(3).png" style="border: 2px solid black;">
 
